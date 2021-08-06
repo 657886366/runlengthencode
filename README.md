@@ -1,4 +1,4 @@
-# runlengthencode
+# runlengthencode  && decode
 
 encode
 
